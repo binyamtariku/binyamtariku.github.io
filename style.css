@@ -278,11 +278,11 @@ section {
   color: #fff;
 }
 
-.home {
+.index {
   padding: 0;
 }
 
-.home .slide {
+.index .slide {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -294,18 +294,18 @@ section {
   background-position: center !important;
 }
 
-.home .slide .content {
+.index .slide .content {
   width: 50rem;
 }
 
-.home .slide .content h3 {
+.index .slide .content h3 {
   font-size: 5rem;
   text-transform: capitalize;
   color: #444;
   color: #fff;
 }
 
-.home .slide .content p {
+.index .slide .content p {
   font-size: 1.6rem;
   line-height: 2;
   color: #777;
@@ -363,33 +363,33 @@ section {
   color: #777;
 }
 
-.home-courses .slide {
+.index-courses .slide {
   text-align: center;
   position: relative;
   background: #f0fdfa;
   overflow: hidden;
 }
 
-.home-courses .slide:hover .content {
+.index-courses .slide:hover .content {
   bottom: 0;
 }
 
-.home-courses .slide .image {
+.index-courses .slide .image {
   padding: 2rem;
 }
 
-.home-courses .slide .image img {
+.index-courses .slide .image img {
   width: 100%;
   margin-bottom: 1.5rem;
 }
 
-.home-courses .slide .image h3 {
+.index-courses .slide .image h3 {
   font-size: 2rem;
   text-transform: capitalize;
   color: #444;
 }
 
-.home-courses .slide .content {
+.index-courses .slide .content {
   position: absolute;
   bottom: -100%;
   right: 0;
@@ -405,7 +405,7 @@ section {
   color: #fff;
 }
 
-.home-courses .slide .content p {
+.index-courses .slide .content p {
   padding: 1rem 0;
   font-size: 1.5rem;
   line-height: 2;
@@ -413,7 +413,7 @@ section {
   color: #eee;
 }
 
-.home-courses .slide .content .btn:hover {
+.index-courses .slide .content .btn:hover {
   background: #444;
 }
 
@@ -1030,7 +1030,7 @@ section {
     text-align: center;
     font-size: 3rem;
   }
-  .home .slide .content h3 {
+  .index .slide .content h3 {
     font-size: 3rem;
   }
 }
